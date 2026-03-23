@@ -7,23 +7,26 @@ I am a passionate technology student focused on building robust back-end solutio
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdruzian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdruzian&layout=compact&theme=radical)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gdruzian&show_icons=true&bg_color=22272e&title_color=6cb6ff&text_color=adbac7&icon_color=6cb6ff&border_color=444c56" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruzian&layout=compact&bg_color=22272e&title_color=6cb6ff&text_color=adbac7&icon_color=6cb6ff&border_color=444c56&hide=html,css" />
+</p>
 
 ---
 
 ## 💻 Technical Skills
 
-### 🚀 Backend & Core
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Object--Oriented%20Programming-gray?style=for-the-badge" />
-
-### 🗄️ Database & Queries
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/ADO.NET-gray?style=for-the-badge" />
-
-### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gustavo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gustavo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gustavo-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Gustavo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gustavo-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+</div>
 
 ---
 
