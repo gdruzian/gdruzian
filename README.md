@@ -7,16 +7,6 @@ I am a passionate technology student focused on building robust back-end solutio
 
 ---
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gdruzian&show_icons=true&bg_color=22272e&title_color=6cb6ff&text_color=adbac7&icon_color=6cb6ff&border_color=444c56" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdruzian&layout=compact&bg_color=22272e&title_color=6cb6ff&text_color=adbac7&icon_color=6cb6ff&border_color=444c56&hide=html,css" />
-</p>
-
----
-
 ## 💻 Technical Skills
 
 <div style="display: inline_block"><br>
