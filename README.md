@@ -29,9 +29,10 @@ I am a passionate technology student focused on building robust back-end solutio
 
 ## 📞 Contact me
 
-<a href="www.linkedin.com/in/gdruzian" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+<a href="https://www.linkedin.com/in/gdruzian" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="mailto:gustavodruzian00@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavodruzian00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
