@@ -9,7 +9,7 @@ I am a passionate technology student focused on building robust back-end solutio
 
 ## 💻 Technical Skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustavo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Gustavo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
